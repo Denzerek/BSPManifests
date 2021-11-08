@@ -1,7 +1,7 @@
 <super-manifest>
   <board-manifest-list>
     <board-manifest>
-      <uri>https://raw.githubusercontent.com/Denzerek/BSPManifests/main/mtb-bsp-manifest-2.X/mtb-bsp-manifest.xml?token=AVXUS5CPEJR2QQLSBIHP3HTBRDFYE</uri>
+      <uri>https://github.com/Denzerek/BSPManifests/blob/main/mtb-bsp-manifest-2.X/mtb-bsp-manifest.xml?raw=true</uri>
     </board-manifest>
     <board-manifest>
       <uri>https://github.com/cypresssemiconductorco/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml</uri>
